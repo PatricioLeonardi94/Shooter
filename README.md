@@ -3,5 +3,4 @@ Unreal Shooter
 
 Es un Juego en Unreal Engine de disparos con una vista en tercera persona. Actualmente lo estoy terminado de realizar.
 
-Agrego Imagenes y Videos del proyecto hasta el momento:
-
+Pueden verlo en: https://zen-mclean-28c7b0.netlify.app/
